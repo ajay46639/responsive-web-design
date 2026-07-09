@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0 ;
+}
+
+body {
+  background-color: gray;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+.card-image {
+  width: 150px;
+  height: auto;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  align-items: center;
+  width: 120px;
+  hieght: 60px;
+}
+
+.card-image-2 {
+  width: 70px;
+  height: auto;
+}
+
+.image-container-2 {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  align-items: center;
+  width: 120px;
+  hight: 60px;  
+}
+
+.container {
+  width: 550px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid black;
+  background-color: white;
+  border-radius: 10px;
+}
+
+
+#playing-cards {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 550px;
+  margin: 40px auto;
+}
+
+.card {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 160px;
+  height: 230px;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px black;
+}
+
+
+.left {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  font-size: 20px;
+}
+
+.middle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+  font-size: 40px;
+  margin: -10px;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  font-size: 20px;
+  transform: rotate(180deg);
+
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.one {
+  color: red;
+}
+
+.two {
+  color: black;
+}
+
+.three {
+  color: red;
+}
+
+.four {
+  color: black;
+}
+
+.five {
+  color: brown;
+}

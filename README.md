@@ -1,170 +1,258 @@
 # Responsive Web Design Projects
 
-A curated collection of **Responsive Web Design** projects completed as part of the **FreeCodeCamp Responsive Web Design Certification** curriculum.
+A curated collection of responsive web design projects completed throughout my front-end development learning journey. This repository primarily contains projects from the **FreeCodeCamp Responsive Web Design Certification** curriculum, along with practice labs, guided workshops, and independent projects created to strengthen my HTML and CSS skills.
 
-This repository showcases my learning journey in modern front-end development, covering HTML5, CSS3, responsive layouts, accessibility, Flexbox, CSS Grid, animations, and UI design through certification projects, workshops, and practice labs.
-
----
-
-## 🔗 Quick Links
-
-- **👤 FreeCodeCamp Profile:** https://www.freecodecamp.org/YOUR_USERNAME
-- **🏆 Responsive Web Design Certificate:** https://www.freecodecamp.org/certification/YOUR_USERNAME/responsive-web-design
-- **🌐 FreeCodeCamp Official Website:** https://www.freecodecamp.org/
+The projects in this repository focus on building a solid foundation in semantic HTML, modern CSS, accessibility, responsive layouts, Flexbox, CSS Grid, animations, and practical user interface development.
 
 ---
 
-# 📖 Repository Overview
+## Repository Links
 
-This repository contains learning resources and projects completed during the **FreeCodeCamp Responsive Web Design** curriculum.
-
-### Contents
-
-- ✅ 5 Certification Projects
-- 🧪 Practice Labs
-- 🛠 Workshops
-- 💡 Personal Enhancements & Experiments
-
-Topics covered include:
-
-- HTML5
-- CSS3
-- Responsive Design
-- Accessibility
-- Forms
-- Typography
-- Flexbox
-- CSS Grid
-- CSS Variables
-- CSS Animations
+- **FreeCodeCamp Profile:** https://www.freecodecamp.org/ajay46639
+- **Responsive Web Design Certificate:** Coming Soon
+- **FreeCodeCamp Official Website:** https://www.freecodecamp.org/
 
 ---
 
-# 🏆 Certification Projects
+# Repository Overview
 
-| # | Project | Source Code | Live Demo | Status |
-|---|----------|-------------|-----------|--------|
-| 01 | Build a Survey Form | [Source](./fcc-01-survey-form/) | [Live Demo](https://ajay46639.github.io/responsive-web-design/fcc-01-survey-form/) | ✅ Complete |
-| 02 | Build a Playing Cards Page | Coming Soon | Coming Soon | 🚧 In Progress |
-| 03 | Build a Book Inventory App | Coming Soon | Coming Soon | 🚧 In Progress |
-| 04 | Build a Technical Documentation Page | Coming Soon | Coming Soon | 🚧 In Progress |
-| 05 | Build a Product Landing Page | Coming Soon | Coming Soon | 🚧 In Progress |
+This repository documents my progress through the FreeCodeCamp Responsive Web Design curriculum while also serving as a collection of additional projects built independently to improve practical front-end development skills.
 
----
+## Contents
 
-# 🧪 Practice Labs
-
-| Lab | Source Code | Live Demo |
-|------|-------------|-----------|
-| HTML & CSS Practice | Coming Soon | Coming Soon |
-| Flexbox Practice | Coming Soon | Coming Soon |
-| CSS Grid Practice | Coming Soon | Coming Soon |
+- 5 Certification Projects
+- 2 Practice Labs
+- 3 Workshops
+- Personal Projects
 
 ---
 
-# 🛠 Workshops
+# Skills Practiced
 
-| Workshop | Source Code | Live Demo |
-|-----------|-------------|-----------|
-| Pricing Card Component | Coming Soon | Coming Soon |
-| Responsive Layout Workshop | Coming Soon | Coming Soon |
-
----
-
-# 🚀 Personal Extensions
-
-Projects created by extending concepts learned from the curriculum.
-
-| Project | Source Code | Live Demo |
-|----------|-------------|-----------|
-| Coming Soon | Coming Soon | Coming Soon |
-
----
-
-# 🛠 Technologies Used
-
-- HTML5
+- Semantic HTML5
 - CSS3
 - Responsive Web Design
+- Accessibility
+- HTML Forms
+- Typography
+- CSS Selectors
+- CSS Box Model
 - CSS Flexbox
 - CSS Grid
 - CSS Variables
 - CSS Animations
-- Accessibility (WCAG Basics)
+- Responsive Layout Design
 
 ---
 
-# 📂 Repository Structure
+# Certification Projects
 
-```
+---
+
+## 01. Build a Survey Form
+
+**Description**
+
+A responsive survey form built to practice semantic HTML, accessible forms, and user input validation. This project focuses on creating properly structured forms using only HTML.
+
+**Technologies**
+
+- HTML5
+
+**Key Concepts**
+
+- Semantic HTML
+- HTML Forms
+- Labels
+- Input Validation
+- Radio Buttons
+- Checkboxes
+- Select Elements
+- Textarea
+- Accessibility
+
+**Source Code**
+
+./fcc-01-survey-form/
+
+**Live Demo**
+
+https://ajay46639.github.io/responsive-web-design/fcc-01-survey-form/
+
+---
+
+## 02. Build a Playing Cards Page
+
+**Description**
+
+A responsive playing cards interface created as part of the FreeCodeCamp Responsive Web Design curriculum. This project focuses on recreating multiple playing card designs using semantic HTML and modern CSS techniques while practicing layout, alignment, spacing, and visual styling.
+
+Each card demonstrates different layout structures, card symbols, typography, image placement, and responsive positioning to simulate real playing cards.
+
+**Technologies**
+
+- HTML5
+- CSS3
+
+**Key Concepts**
+
+- Semantic HTML Structure
+- CSS Selectors
+- CSS Box Model
+- Flexbox Layout
+- Flexbox Alignment
+- Flex Wrap
+- Typography
+- Colors
+- Borders
+- Border Radius
+- Box Shadows
+- CSS Transforms
+- Responsive Layout
+- Image Positioning
+- Overflow Handling
+
+**Learning Outcomes**
+
+- Structured reusable card layouts using semantic HTML.
+- Practiced Flexbox for vertical and horizontal alignment.
+- Designed multiple card variations while maintaining a consistent layout.
+- Applied CSS transforms to rotate card values.
+- Improved spacing and visual hierarchy using margins, padding, and shadows.
+- Organized images inside responsive containers without breaking the card layout.
+
+**Source Code**
+
+Coming Soon
+
+**Live Demo**
+
+Coming Soon
+
+---
+
+## 03. Build a Book Inventory App
+
+
+---
+
+## 04. Build a Technical Documentation Page
+
+
+---
+
+## 05. Build a Product Landing Page
+
+
+---
+
+# Practice Labs
+
+
+---
+
+## 01. Design a Newspaper Layout
+
+
+---
+
+## 02. Build a Personal Portfolio
+
+
+
+---
+
+# Workshops
+
+---
+
+## 01. Build a City Skyline
+
+
+
+---
+
+## 02. Build a Magazine
+
+
+---
+
+## 03. Build a Flappy Penguin
+
+
+---
+
+# Personal Projects
+
+This section contains projects developed independently beyond the FreeCodeCamp curriculum to apply learned concepts in real-world scenarios and explore additional front-end techniques.
+
+Projects will be added as they are completed.
+
+---
+
+# Repository Structure
+
+```text
 responsive-web-design/
 │
 ├── README.md
 ├── LICENSE
 │
-├── fcc-01-survey-form/
-├── fcc-02-playing-cards/
-├── fcc-03-book-inventory-app/
-├── fcc-04-technical-documentation-page/
-├── fcc-05-product-landing-page/
-│
-├── labs/
-│
-└── workshops/
+├── 01-survey-form/
+├── 02-playing-cards/
+├── 03-book-inventory-app/
+├── 04-technical-documentation-page/
+├── 05-product-landing-page/
+├── w1-city-skyline/
+├── w2-magazine/
+├── w3-flappy-penguin/
+├── L1-newspaper-layout/
+├── L2-personal-portfolio/
+
 ```
 
 ---
 
-# 🎯 Learning Objectives
+# Learning Objectives
 
 Through these projects I practiced:
 
-- Semantic HTML
-- Accessible Web Design
-- Responsive Layout Techniques
-- Flexbox
-- CSS Grid
-- Form Design
-- Typography
-- CSS Variables
-- CSS Animations
-- Mobile-First Development
+- Writing semantic HTML
+- Building accessible web pages
+- Creating responsive layouts
+- Working with Flexbox
+- Working with CSS Grid
+- Designing user interfaces
+- Organizing CSS effectively
+- Creating animations
+- Applying a mobile-first approach
 
 ---
 
-# 📜 License
+# License
 
-This repository is licensed under the **MIT License**.
+This repository is licensed under the MIT License.
 
-See the **LICENSE** file for complete details.
+See the LICENSE file for complete license information.
 
 ---
 
-# 🙏 Acknowledgements
+# Credits
 
-Special thanks to **FreeCodeCamp** for providing one of the world's best free web development curriculums.
+Project requirements, certification curriculum, and learning resources are provided by **FreeCodeCamp**.
 
-FreeCodeCamp Website:
+Official Website:
+
 https://www.freecodecamp.org/
 
----
-
-# ⚠️ Disclaimer
-
-These projects were completed as part of the **FreeCodeCamp Responsive Web Design Certification** curriculum.
-
-While the project requirements are based on the FreeCodeCamp curriculum, the implementations, code organization, improvements, and future enhancements in this repository are my own work completed as part of my learning journey.
+Additional implementations, styling improvements, project organization, and independent projects are completed as part of my personal learning journey.
 
 ---
 
-## 👨‍💻 Author
+# Author
 
 **Ajay Prajapati**
 
-GitHub:
-https://github.com/ajay46639
+GitHub: https://github.com/ajay46639
 
-FreeCodeCamp:
-https://www.freecodecamp.org/YOUR_USERNAME
-
----
+FreeCodeCamp: https://www.freecodecamp.org/ajay46639
