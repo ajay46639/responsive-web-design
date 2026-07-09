@@ -73,7 +73,7 @@ A responsive survey form built to practice semantic HTML, accessible forms, and 
 
 **Source Code**
 
-./fcc-01-survey-form/
+./01-survey-form/
 
 **Live Demo**
 
@@ -123,12 +123,11 @@ Each card demonstrates different layout structures, card symbols, typography, im
 
 **Source Code**
 
-Coming Soon
+./02-playing-cards/
 
 **Live Demo**
 
-Coming Soon
-
+https://ajay46639.github.io/responsive-web-design/02-playing-cards/
 ---
 
 ## 03. Build a Book Inventory App
