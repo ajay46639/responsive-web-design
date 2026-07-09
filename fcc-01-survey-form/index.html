@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">APGENIX user experience survey.</h1>
+    <p id="description">This survey is taken to analys the user experience and resolving issues and upgrading overall experience ,so be honest while feeling this survery.</p> <br>
+
+
+    <form id="survey-form">
+
+      <label for="name" id="name-label">Enter your name</label>
+      <input required id="name"  type="text" placeholder="e.g. Ajay Prajapati"/> <br><br>
+        
+      <label for="email" id="email-label">Enter your Email</label>
+      <input required id="email" type="email" placeholder="example@email.com"/> <br><br>
+
+      <label for="number" id="number-label">Enter age(optional)</label>
+      <input 
+      id="number"
+      type="number"
+      max="100"
+      min="3"
+      placeholder="e.g. 20"
+      /> <br><br>
+
+      <label for="dropdown">You recommend this to your friends : </label>
+
+      <select id="dropdown">
+        <option>Yes</option>
+        <option>No</option>
+      </select> <br><br>
+
+      <label>How much you give this (outof 5) :</label>
+      <input id="rate1" type="radio" name="suggest" value="1">
+      <label for="rate1">1</label>
+
+      <input id="rate2" type="radio" name="suggest" value="2">
+      <label for="rate2">2</label>
+
+      <input id="rate3" type="radio" name="suggest" value="3"> 
+      <label for="rat32">3</label>
+
+      <input id="rate4" type="radio" name="suggest" value="4">
+      <label for="rate4">4</label>
+
+      <input id="rate5" type="radio" name="suggest" value="5">
+      <label for="rate5">5</label> <br><br>
+
+      
+      <label>what you like about this website (choose all aplicable)</label>
+      <input type="checkbox" id="interactivity" value="interactivity"/>
+      <label for="interactivity">interactivity</label>
+
+      <input type="checkbox" id="animations" value="animations"/>
+      <label for="animations">animations</label>
+      
+      <input type="checkbox" id="colour-themes" value="colour-themes"/>
+      <label for="colour-themes">colour-themes</label>
+
+      <input type="checkbox" id="content" value="content"/>
+      <label for="content">content</label>
+
+      <input type="checkbox" id="explorable" value="explorable"/>
+      <label for="explorable">explorable</label> <br><br>
+
+      <label for="feekback">Your suggetions to improve</label>
+      <textarea id="feedback" row="10" col="50"></textarea> <br><br>
+
+      <button id="submit" type="submit">submit</button>
+             
+
+    </form>
+  </body>
+</html>
