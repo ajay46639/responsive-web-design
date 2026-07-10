@@ -133,6 +133,53 @@ https://ajay46639.github.io/responsive-web-design/02-playing-cards/
 
 ## 03. Build a Book Inventory App
 
+**Description**
+
+A responsive book inventory interface developed as part of the FreeCodeCamp Responsive Web Design curriculum. This project focuses on creating a structured inventory table using semantic HTML while applying modern CSS techniques to organize and visually distinguish book information through custom styling, color coding, and rating indicators.
+
+The application presents books in a clean tabular layout, categorizing them by reading status and displaying ratings with custom-designed visual indicators to improve readability and user experience.
+
+**Technologies**
+
+- HTML5
+- CSS3
+
+**Key Concepts**
+
+- Semantic HTML Tables
+- Table Head, Body & Rows
+- CSS Selectors
+- CSS Box Model
+- Typography
+- Sticky Table Header
+- CSS Gradients
+- Attribute Selectors
+- Class Selectors
+- Custom Status Badges
+- Visual Rating Indicators
+- Border Radius
+- Responsive Table Layout
+- Text Alignment
+- Color Coding
+
+**Learning Outcomes**
+
+- Built structured and accessible data tables using semantic HTML.
+- Applied sticky positioning to improve table navigation.
+- Designed reusable status badges with consistent styling.
+- Implemented custom visual rating indicators using only CSS.
+- Used gradients and color schemes to distinguish different reading statuses.
+- Improved table readability through spacing, typography, and alignment.
+- Practiced organizing tabular data into a clean and responsive interface.
+
+**Source Code**
+
+[View Source](./03-book-inventory/)
+
+**Live Demo**
+
+https://ajay46639.github.io/responsive-web-design/03-book-inventory/
+
 
 ---
 
@@ -241,9 +288,7 @@ See the LICENSE file for complete license information.
 
 Project requirements, certification curriculum, and learning resources are provided by **FreeCodeCamp**.
 
-Official Website:
-
-https://www.freecodecamp.org/
+Official Website: https://www.freecodecamp.org/
 
 Additional implementations, styling improvements, project organization, and independent projects are completed as part of my personal learning journey.
 
