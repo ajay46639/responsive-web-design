@@ -185,6 +185,53 @@ https://ajay46639.github.io/responsive-web-design/03-book-inventory/
 
 ## 04. Build a Technical Documentation Page
 
+**Description**
+
+A responsive technical documentation website developed as part of the FreeCodeCamp Responsive Web Design curriculum. This project focuses on creating a well-structured documentation layout using semantic HTML while implementing a fixed navigation sidebar, smooth scrolling, and responsive page organization with modern CSS techniques.
+
+The documentation presents multiple HTML learning topics with code examples, ordered and unordered lists, and an always-accessible navigation menu that allows users to quickly jump between sections.
+
+**Technologies**
+
+- HTML5
+- CSS3
+
+**Key Concepts**
+
+- Semantic HTML Structure
+- Fixed Navigation Sidebar
+- Internal Page Navigation
+- Anchor Links
+- CSS Selectors
+- CSS Box Model
+- Responsive Layout
+- CSS Positioning
+- Smooth Scrolling
+- Code Block Styling
+- Typography
+- Overflow Management
+- Viewport Units
+- Media Queries
+- Hover Effects
+
+**Learning Outcomes**
+
+- Built a multi-section documentation website using semantic HTML.
+- Implemented a fixed sidebar for quick navigation between documentation sections.
+- Applied smooth scrolling to improve user experience.
+- Organized educational content using headings, paragraphs, lists, and code blocks.
+- Designed a clean and readable documentation layout with responsive spacing and typography.
+- Practiced CSS positioning, overflow handling, and viewport-based layouts.
+- Improved page usability through interactive navigation and hover effects.
+
+**Source Code**
+
+[View Source](./04-documentation-page/)
+
+**Live Demo**
+
+https://ajay46639.github.io/responsive-web-design/04-documentation-page/
+
 
 ---
 
