@@ -237,6 +237,56 @@ https://ajay46639.github.io/responsive-web-design/04-documentation-page/
 
 ## 05. Build a Product Landing Page
 
+**Description**
+
+A responsive product landing page developed as part of the FreeCodeCamp Responsive Web Design curriculum. This project focuses on designing a modern landing page with a fixed navigation header, responsive layouts, product features, embedded promotional video, pricing section, and email subscription form using semantic HTML and modern CSS.
+
+The page demonstrates how multiple UI components work together to create a clean, responsive, and user-friendly landing page while maintaining accessibility and consistent visual design across different screen sizes.
+
+**Technologies**
+
+- HTML5
+- CSS3
+
+**Key Concepts**
+
+- Semantic HTML Structure
+- Fixed Navigation Header
+- Internal Page Navigation
+- Responsive Navigation Bar
+- HTML Forms
+- Embedded YouTube Video
+- CSS Flexbox
+- CSS Grid
+- CSS Variables
+- CSS Box Model
+- Responsive Layout
+- Media Queries
+- Hover Effects
+- CSS Transitions
+- Viewport Units
+- Typography
+- Card-Based Layout Design
+
+**Learning Outcomes**
+
+- Built a complete responsive landing page using semantic HTML.
+- Implemented a fixed navigation bar with smooth internal section navigation.
+- Designed a responsive pricing section using CSS Grid.
+- Created reusable UI components with Flexbox layouts.
+- Embedded external multimedia content using an iframe.
+- Applied CSS variables to maintain a consistent color theme.
+- Improved user experience through hover effects, transitions, and responsive layouts.
+- Practiced organizing multiple webpage sections into a cohesive landing page.
+
+**Source Code**
+
+[View Source](./05-product-landing-page/)
+
+**Live Demo**
+
+https://ajay46639.github.io/responsive-web-design/05-product-landing-page/
+
 
 ---
 
@@ -294,8 +344,8 @@ responsive-web-design/
 │
 ├── 01-survey-form/
 ├── 02-playing-cards/
-├── 03-book-inventory-app/
-├── 04-technical-documentation-page/
+├── 03-book-inventory/
+├── 04-documentation-page/
 ├── 05-product-landing-page/
 ├── w1-city-skyline/
 ├── w2-magazine/
