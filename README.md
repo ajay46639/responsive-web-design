@@ -9,7 +9,7 @@ The projects in this repository focus on building a solid foundation in semantic
 ## Repository Links
 
 - **FreeCodeCamp Profile:** https://www.freecodecamp.org/ajay46639
-- **Responsive Web Design Certificate:** Coming Soon
+- **Responsive Web Design Certificate:** https://freecodecamp.org/certification/ajay46639/responsive-web-design-v9
 - **FreeCodeCamp Official Website:** https://www.freecodecamp.org/
 
 ---
